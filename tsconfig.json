@@ -4,7 +4,7 @@
     "declaration": true,
     "removeComments": true,
     "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
+    "experimentalDecorators": true, // 데커레이터 옵션 on
     "allowSyntheticDefaultImports": true,
     "target": "es2017",
     "sourceMap": true,
